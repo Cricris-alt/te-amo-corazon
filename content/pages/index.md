@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: un mensaje de verdadero amor
       color: text-primary
       type: Badge
     elementId: ''
