@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Sabes...
+      text: Sabes
       color: text-dark
       type: TitleBlock
     subtitle: Al final de todo
