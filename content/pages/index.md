@@ -9,9 +9,13 @@ sections:
       type: TitleBlock
     subtitle: Al final de todo
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      sabes, al final de todo me ayudaste a saber quien soy, que me gusta y que
+      me importa para mi, y eso eres tu me ayudaste a saber que dentro de mi hay
+      alguien mas, ay alguien que le gusta hacer detalles para su novia, alguien
+      que le gusta ver una sonrisa hermosa en tu rostro, alguien que no importa
+      que, hara lo imposible para poder ver ese dientesito hermoso que tiene al
+      sonreir su novia, dentro de mi nunca espere amar a alguien tanto como te
+      amo a ti 
     actions:
       - label: Get started
         altText: ''
