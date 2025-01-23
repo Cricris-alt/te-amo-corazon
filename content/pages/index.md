@@ -1,5 +1,5 @@
 ---
-title: Home
+title: CASA DE LOS DOS
 slug: /
 sections:
   - type: GenericSection
@@ -7,7 +7,7 @@ sections:
       text: Sabes...
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Al final de todo
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
@@ -48,9 +48,11 @@ sections:
         flexDirection: row
         padding:
           - pt-16
-          - pl-16
+          - pl-8
           - pb-16
           - pr-16
+      text:
+        textAlign: left
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
